@@ -1,126 +1,63 @@
-\# FET312 - Derin Öğrenme Projesi: \[Proje Başlığınız Buraya]
+# FET312 - Derin Öğrenme Projesi: [Proje Başlığınız Buraya]
 
-
-
-\[cite\_start]\*\*Ders:\*\* FET312 Derin Öğrenme 
-
-\[cite\_start]\*\*Dönem:\*\* 2025 Güz (veya ilgili dönem) \[cite: 6]
-
-
+**Ders:** FET312 Derin Öğrenme
+**Dönem:** 2025 Güz
 
 ---
 
-
-
-\## 👥 Ekip Bilgileri
-
-\[cite\_start]\*\*Ekip Adı:\*\* \[Ekip Adınızı Buraya Yazın] \[cite: 8]
-
-
+## 👥 Ekip Bilgileri
+**Ekip Adı:** [Ekip Adınızı Buraya Yazın]
 
 | Adı Soyadı | Öğrenci No | E-Posta | Görev/Rol |
-
 | --- | --- | --- | --- |
-
-| \[Üye 1 Adı] | \[123456] | \[email@ornek.com] | \[Örn: Veri Ön İşleme, Base Model 1] |
-
-| \[Üye 2 Adı] | \[789012] | \[email@ornek.com] | \[Örn: Model Mimarisi, Raporlama] |
-
-| \[Üye 3 Adı] | \[345678] | \[email@ornek.com] | \[Örn: Hiperparametre Opt., Sunum] |
-
-
+| [Üye 1 Adı] | [123456] | [email@ornek.com] | [Örn: Veri Ön İşleme, Base Model 1] |
+| [Üye 2 Adı] | [789012] | [email@ornek.com] | [Örn: Model Mimarisi, Raporlama] |
+| [Üye 3 Adı] | [345678] | [email@ornek.com] | [Örn: Hiperparametre Opt., Sunum] |
 
 ---
 
+## 📝 Proje Özeti ve Problem Tanımı
+**Problem:** [Çözmeye çalıştığınız problemi burada 1-2 paragraf ile detaylıca açıklayın. İş/Bilimsel soru nedir?]
 
+**Motivasyon ve Hedef:** [Bu projeyi neden yapıyorsunuz? Hedefiniz ne? Hangi boşluğu dolduruyor?]
 
-\## 📝 Proje Özeti ve Problem Tanımı
+**Görev Türü:** [Örn: Sınıflandırma / Regresyon / Nesne Tespiti]
 
-\*\*Problem:\*\* \[Çözmeye çalıştığınız problemi burada 1-2 paragraf ile detaylıca açıklayın. \[cite\_start]İş/Bilimsel soru nedir?] \[cite: 11]
-
-
-
-\*\*Motivasyon ve Hedef:\*\* \[Bu projeyi neden yapıyorsunuz? Hedefiniz ne? \[cite\_start]Hangi boşluğu dolduruyor?] \[cite: 10, 30]
-
-
-
-\[cite\_start]\*\*Görev Türü:\*\* \[Örn: Sınıflandırma / Regresyon / Nesne Tespiti] \[cite: 12]
-
-
-
-\[cite\_start]\*\*Başarı Kriterleri:\*\* \[Örn: Hedefimiz Test setinde %85 Accuracy veya F1-Score > 0.80 değerine ulaşmaktır.] \[cite: 15]
-
-
+**Başarı Kriterleri:** [Örn: Hedefimiz Test setinde %85 Accuracy veya F1-Score > 0.80 değerine ulaşmaktır.]
 
 ---
 
-
-
-\## 📊 Veri Seti (Dataset)
-
-\*\*Veri Seti Adı:\*\* \[Veri Seti Adı]
-
-\[cite\_start]\*\*Kaynak:\*\* \[Kaggle Linki / Orijinal Kaynak Linki] \[cite: 33]
-
-\*\*Açıklama:\*\* \[Veri seti kaç görüntüden/satırdan oluşuyor? Sınıflar neler? \[cite\_start]Dengeli mi?] \[cite: 34, 38]
-
-\[cite\_start]\*\*Lisans:\*\* \[Veri setinin kullanım hakları/lisansı] \[cite: 33]
-
-
+## 📊 Veri Seti (Dataset)
+**Veri Seti Adı:** [Veri Seti Adı]
+**Kaynak:** [Kaggle Linki / Orijinal Kaynak Linki]
+**Açıklama:** [Veri seti kaç görüntüden/satırdan oluşuyor? Sınıflar neler? Dengeli mi?]
+**Lisans:** [Veri setinin kullanım hakları/lisansı]
 
 ---
 
+## 🛠️ Yöntem ve Mimari
+Bu projede **PyTorch** derin öğrenme kütüphanesi kullanılmıştır.
 
-
-\## 🛠️ Yöntem ve Mimari
-
-\[cite\_start]Bu projede \*\*PyTorch\*\* derin öğrenme kütüphanesi kullanılmıştır\[cite: 54].
-
-
-
-\* \*\*Model Mimarisi:\*\* \[Kullandığınız modelleri kısaca anlatın. \[cite\_start]Örn: CNN, ResNet50, LSTM vb.] \[cite: 41]
-
-\* \*\*Hiperparametre Optimizasyonu:\*\* \[Hangi yöntemleri denediniz? \[cite\_start]Learning rate, batch size vb.] \[cite: 43]
-
-
+* **Model Mimarisi:** [Kullandığınız modelleri kısaca anlatın. Örn: CNN, ResNet50, LSTM vb.]
+* **Hiperparametre Optimizasyonu:** [Hangi yöntemleri denediniz? Learning rate, batch size vb.]
 
 ---
 
-
-
-\## 📂 Proje Yapısı ve Dosyalar
-
+## 📂 Proje Yapısı ve Dosyalar
 Proje dosyalarımız aşağıdaki dizin yapısına uygun olarak düzenlenmiştir:
 
-
-
 ```text
-
 FET312-GrupAdi-Projesi/
-
 │
-
 ├── data/                      # Veri seti dosyaları
-
 ├── notebooks/                 # Grup üyelerinin model geliştirme not defterleri
-
-\[cite\_start]│   ├── FET312\_\[No]\_\[GrupAdi]\_1.ipynb  # Üye 1 Base Model \[cite: 9, 67]
-
-\[cite\_start]│   ├── FET312\_\[No]\_\[GrupAdi]\_1.ipynb  # Üye 2 Base Model \[cite: 67]
-
-\[cite\_start]│   └── FET312\_\[No]\_\[GrupAdi]\_1.ipynb  # Üye 3 Base Model \[cite: 67]
-
+│   ├── FET312_[No]_[GrupAdi]_1.ipynb  # Üye 1 Base Model
+│   ├── FET312_[No]_[GrupAdi]_1.ipynb  # Üye 2 Base Model
+│   └── FET312_[No]_[GrupAdi]_1.ipynb  # Üye 3 Base Model
 │
-
 ├── reports/                   # Proje raporu ve sunumlar
-
-\[cite\_start]│   └── FET312\_\[No]\_\[GrupAdi]\_ProjectOutline.pdf \[cite: 65]
-
+│   └── FET312_[No]_[GrupAdi]_ProjectOutline.pdf
 │
-
-\[cite\_start]├── results/                   # Loss eğrileri ve performans grafikleri \[cite: 69]
-
-\[cite\_start]├── requirements.txt           # Gerekli kütüphaneler \[cite: 55]
-
+├── results/                   # Loss eğrileri ve performans grafikleri
+├── requirements.txt           # Gerekli kütüphaneler
 └── README.md                  # Proje dokümantasyonu
-
