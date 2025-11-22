@@ -2,7 +2,7 @@
 
 **Ders:** FET312 Derin Öğrenme
 
-**Dönem:** 2025 Güz
+**Dönem:** 2025-2026 Güz
 
 ---
 
