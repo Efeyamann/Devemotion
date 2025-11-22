@@ -9,7 +9,7 @@
 ## 👥 Ekip Bilgileri
 **Ekip Adı:** Devemotion
 
-| Adı Soyadı | Öğrenci No | E-Posta | Görev/Rol |
+| Adı Soyadı | Öğrenci No | E-Posta | Kullanılan Model |
 | :--- | :--- | :--- | :--- |
 | Efe Yaman Sir | 23040301057 | efeyamansir@stu.topkapi.edu.tr | DenseNet  |
 | Ahmet Baran Vardar | 23040301112 | ahmetbaranvardar@stu.topkapi.edu.tr | VGG16 |
