@@ -1,7 +1,12 @@
 # FET312 - Derin Öğrenme Projesi: [Devemotion]
 
+# FET312 - Derin Öğrenme Projesi: [Proje Başlığınız Buraya]
+
 **Ders:** FET312 Derin Öğrenme
+
 **Dönem:** 2025 Güz
+
+---
 
 ## 👥 Ekip Bilgileri
 **Ekip Adı:** [Devemotion]
