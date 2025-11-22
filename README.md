@@ -7,7 +7,7 @@
 ---
 
 ## 👥 Ekip Bilgileri
-**Ekip Adı:** [Devemotion]
+**Ekip Adı:** Devemotion
 
 | Adı Soyadı | Öğrenci No | E-Posta | Görev/Rol |
 | :--- | :--- | :--- | :--- |
