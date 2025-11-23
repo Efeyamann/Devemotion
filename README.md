@@ -2,17 +2,17 @@
 
 **Ders:** FET312 Derin Öğrenme
 
-**Dönem:** 2025 Güz
+**Dönem:** 2025-2026 Güz
 
 ---
 
 ## 👥 Ekip Bilgileri
 **Ekip Adı:** Devemotion
 
-| Adı Soyadı | Öğrenci No | E-Posta | Görev/Rol |
+| Adı Soyadı | Öğrenci No | E-Posta | Kullanılan Model |
 | :--- | :--- | :--- | :--- |
-| Efe Yaman Sir | 23040301057 | [E-Posta Adresi] | DenseNet (Base Model) |
-| Ahmet Baran Vardar | 23040301112 | [E-Posta Adresi] | Model Mimarisi, Raporlama |
-| Fırat Soykan | 23040301060 | [E-Posta Adresi] | ResNet (Base Model) |
-| Mert Ali Kızılkaya | 23040301051 | [E-Posta Adresi] | Custom CNN (Base Model) |
-| Yiğit Ali Çolakoğlu | 23040301061 | [E-Posta Adresi] | [Projedeki Spesifik Görev] |
+| Efe Yaman Sir | 23040301057 | efeyamansir@stu.topkapi.edu.tr | DenseNet  |
+| Ahmet Baran Vardar | 23040301112 | ahmetbaranvardar@stu.topkapi.edu.tr | MobileNet |
+| Fırat Soykan | 23040301060 | firatsoykan@stu.topkapi.edu.tr | ResNet |
+| Mert Ali Kızılkaya | 23040301051 | mertalikizilkaya@stu.topkapi.edu.tr | Custom CNN |
+| Yiğit Ali Çolakoğlu | 23040301061 | yigitalicolakoglu@stu.topkapi.edu.tr | GoogleNet |
