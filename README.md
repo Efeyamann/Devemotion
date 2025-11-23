@@ -15,4 +15,4 @@
 | Ahmet Baran Vardar | 23040301112 | ahmetbaranvardar@stu.topkapi.edu.tr | MobileNet |
 | Fırat Soykan | 23040301060 | firatsoykan@stu.topkapi.edu.tr | ResNet |
 | Mert Ali Kızılkaya | 23040301051 | mertalikizilkaya@stu.topkapi.edu.tr | Custom CNN |
-| Yiğit Ali Çolakoğlu | 23040301061 | [E-Posta Adresi] |  |
+| Yiğit Ali Çolakoğlu | 23040301061 | yigitalicolakoglu@stu.topkapi.edu.tr | GoogleNet |
