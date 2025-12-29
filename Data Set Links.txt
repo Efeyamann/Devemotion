@@ -1,0 +1,5 @@
+Face Data Set
+https://www.kaggle.com/datasets/msambare/fer2013
+-------------------------------------------------------
+IMDB TOP 1000 Movies Data Set
+https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
